@@ -37,14 +37,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/Adwait3108/Leetcode-Submissions/tree/master/0102-binary-tree-level-order-traversal) |
+| [0199-binary-tree-right-side-view](https://github.com/Adwait3108/Leetcode-Submissions/tree/master/0199-binary-tree-right-side-view) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/Adwait3108/Leetcode-Submissions/tree/master/0102-binary-tree-level-order-traversal) |
+| [0199-binary-tree-right-side-view](https://github.com/Adwait3108/Leetcode-Submissions/tree/master/0199-binary-tree-right-side-view) |
 ## Binary Tree
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/Adwait3108/Leetcode-Submissions/tree/master/0102-binary-tree-level-order-traversal) |
+| [0199-binary-tree-right-side-view](https://github.com/Adwait3108/Leetcode-Submissions/tree/master/0199-binary-tree-right-side-view) |
 ## Hash Table
 |  |
 | ------- |
@@ -53,4 +56,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3227-find-missing-and-repeated-values](https://github.com/Adwait3108/Leetcode-Submissions/tree/master/3227-find-missing-and-repeated-values) |
+## Depth-First Search
+|  |
+| ------- |
+| [0199-binary-tree-right-side-view](https://github.com/Adwait3108/Leetcode-Submissions/tree/master/0199-binary-tree-right-side-view) |
 <!---LeetCode Topics End-->
