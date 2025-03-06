@@ -38,16 +38,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/Adwait3108/Leetcode-Submissions/tree/master/0102-binary-tree-level-order-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Adwait3108/Leetcode-Submissions/tree/master/0199-binary-tree-right-side-view) |
+| [1116-maximum-level-sum-of-a-binary-tree](https://github.com/Adwait3108/Leetcode-Submissions/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/Adwait3108/Leetcode-Submissions/tree/master/0102-binary-tree-level-order-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Adwait3108/Leetcode-Submissions/tree/master/0199-binary-tree-right-side-view) |
+| [1116-maximum-level-sum-of-a-binary-tree](https://github.com/Adwait3108/Leetcode-Submissions/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/Adwait3108/Leetcode-Submissions/tree/master/0102-binary-tree-level-order-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Adwait3108/Leetcode-Submissions/tree/master/0199-binary-tree-right-side-view) |
+| [1116-maximum-level-sum-of-a-binary-tree](https://github.com/Adwait3108/Leetcode-Submissions/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 ## Hash Table
 |  |
 | ------- |
@@ -60,4 +63,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0199-binary-tree-right-side-view](https://github.com/Adwait3108/Leetcode-Submissions/tree/master/0199-binary-tree-right-side-view) |
+| [1116-maximum-level-sum-of-a-binary-tree](https://github.com/Adwait3108/Leetcode-Submissions/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 <!---LeetCode Topics End-->
