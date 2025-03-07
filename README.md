@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/Adwait3108/Leetcode-Submissions/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
+| [2610-closest-prime-numbers-in-range](https://github.com/Adwait3108/Leetcode-Submissions/tree/master/2610-closest-prime-numbers-in-range) |
 | [2649-count-total-number-of-colored-cells](https://github.com/Adwait3108/Leetcode-Submissions/tree/master/2649-count-total-number-of-colored-cells) |
 | [3227-find-missing-and-repeated-values](https://github.com/Adwait3108/Leetcode-Submissions/tree/master/3227-find-missing-and-repeated-values) |
 ## Array
@@ -64,4 +65,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0199-binary-tree-right-side-view](https://github.com/Adwait3108/Leetcode-Submissions/tree/master/0199-binary-tree-right-side-view) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/Adwait3108/Leetcode-Submissions/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
+## Number Theory
+|  |
+| ------- |
+| [2610-closest-prime-numbers-in-range](https://github.com/Adwait3108/Leetcode-Submissions/tree/master/2610-closest-prime-numbers-in-range) |
 <!---LeetCode Topics End-->
