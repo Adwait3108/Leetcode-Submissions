@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/Adwait3108/Leetcode-Submissions/tree/master/0039-combination-sum) |
 | [0078-subsets](https://github.com/Adwait3108/Leetcode-Submissions/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Adwait3108/Leetcode-Submissions/tree/master/0090-subsets-ii) |
+| [0239-sliding-window-maximum](https://github.com/Adwait3108/Leetcode-Submissions/tree/master/0239-sliding-window-maximum) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Adwait3108/Leetcode-Submissions/tree/master/0380-insert-delete-getrandom-o1) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Adwait3108/Leetcode-Submissions/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3227-find-missing-and-repeated-values](https://github.com/Adwait3108/Leetcode-Submissions/tree/master/3227-find-missing-and-repeated-values) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/Adwait3108/Leetcode-Submissions/tree/master/0239-sliding-window-maximum) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Adwait3108/Leetcode-Submissions/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Adwait3108/Leetcode-Submissions/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Adwait3108/Leetcode-Submissions/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -85,4 +87,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0380-insert-delete-getrandom-o1](https://github.com/Adwait3108/Leetcode-Submissions/tree/master/0380-insert-delete-getrandom-o1) |
+## Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/Adwait3108/Leetcode-Submissions/tree/master/0239-sliding-window-maximum) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/Adwait3108/Leetcode-Submissions/tree/master/0239-sliding-window-maximum) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/Adwait3108/Leetcode-Submissions/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
