@@ -30,10 +30,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Adwait3108/Leetcode-Submissions/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Adwait3108/Leetcode-Submissions/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 ## Sliding Window
 |  |
 | ------- |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Adwait3108/Leetcode-Submissions/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Adwait3108/Leetcode-Submissions/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 ## Tree
 |  |
 | ------- |
