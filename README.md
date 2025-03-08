@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/Adwait3108/Leetcode-Submissions/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Adwait3108/Leetcode-Submissions/tree/master/0090-subsets-ii) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Adwait3108/Leetcode-Submissions/tree/master/0380-insert-delete-getrandom-o1) |
+| [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Adwait3108/Leetcode-Submissions/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3227-find-missing-and-repeated-values](https://github.com/Adwait3108/Leetcode-Submissions/tree/master/3227-find-missing-and-repeated-values) |
 ## Backtracking
 |  |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Adwait3108/Leetcode-Submissions/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Adwait3108/Leetcode-Submissions/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
+| [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Adwait3108/Leetcode-Submissions/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Tree
 |  |
 | ------- |
@@ -60,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0380-insert-delete-getrandom-o1](https://github.com/Adwait3108/Leetcode-Submissions/tree/master/0380-insert-delete-getrandom-o1) |
+| [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Adwait3108/Leetcode-Submissions/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3227-find-missing-and-repeated-values](https://github.com/Adwait3108/Leetcode-Submissions/tree/master/3227-find-missing-and-repeated-values) |
 ## Matrix
 |  |
