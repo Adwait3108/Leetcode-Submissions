@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/Adwait3108/Leetcode-Submissions/tree/master/0090-subsets-ii) |
 | [0239-sliding-window-maximum](https://github.com/Adwait3108/Leetcode-Submissions/tree/master/0239-sliding-window-maximum) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Adwait3108/Leetcode-Submissions/tree/master/0380-insert-delete-getrandom-o1) |
+| [2551-apply-operations-to-an-array](https://github.com/Adwait3108/Leetcode-Submissions/tree/master/2551-apply-operations-to-an-array) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Adwait3108/Leetcode-Submissions/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3227-find-missing-and-repeated-values](https://github.com/Adwait3108/Leetcode-Submissions/tree/master/3227-find-missing-and-repeated-values) |
 | [3483-alternating-groups-ii](https://github.com/Adwait3108/Leetcode-Submissions/tree/master/3483-alternating-groups-ii) |
@@ -101,4 +102,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Adwait3108/Leetcode-Submissions/tree/master/0239-sliding-window-maximum) |
+## Two Pointers
+|  |
+| ------- |
+| [2551-apply-operations-to-an-array](https://github.com/Adwait3108/Leetcode-Submissions/tree/master/2551-apply-operations-to-an-array) |
+## Simulation
+|  |
+| ------- |
+| [2551-apply-operations-to-an-array](https://github.com/Adwait3108/Leetcode-Submissions/tree/master/2551-apply-operations-to-an-array) |
 <!---LeetCode Topics End-->
