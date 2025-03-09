@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Adwait3108/Leetcode-Submissions/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/Adwait3108/Leetcode-Submissions/tree/master/0039-combination-sum) |
 | [0078-subsets](https://github.com/Adwait3108/Leetcode-Submissions/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Adwait3108/Leetcode-Submissions/tree/master/0090-subsets-ii) |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Adwait3108/Leetcode-Submissions/tree/master/0022-generate-parentheses) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Adwait3108/Leetcode-Submissions/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Adwait3108/Leetcode-Submissions/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 ## Sliding Window
@@ -110,4 +112,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2551-apply-operations-to-an-array](https://github.com/Adwait3108/Leetcode-Submissions/tree/master/2551-apply-operations-to-an-array) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/Adwait3108/Leetcode-Submissions/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
