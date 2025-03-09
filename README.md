@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Adwait3108/Leetcode-Submissions/tree/master/0022-generate-parentheses) |
+| [1250-longest-common-subsequence](https://github.com/Adwait3108/Leetcode-Submissions/tree/master/1250-longest-common-subsequence) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Adwait3108/Leetcode-Submissions/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Adwait3108/Leetcode-Submissions/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 ## Sliding Window
@@ -116,4 +117,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Adwait3108/Leetcode-Submissions/tree/master/0022-generate-parentheses) |
+| [1250-longest-common-subsequence](https://github.com/Adwait3108/Leetcode-Submissions/tree/master/1250-longest-common-subsequence) |
 <!---LeetCode Topics End-->
