@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/Adwait3108/Leetcode-Submissions/tree/master/0090-subsets-ii) |
 | [0239-sliding-window-maximum](https://github.com/Adwait3108/Leetcode-Submissions/tree/master/0239-sliding-window-maximum) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Adwait3108/Leetcode-Submissions/tree/master/0380-insert-delete-getrandom-o1) |
+| [1833-find-the-highest-altitude](https://github.com/Adwait3108/Leetcode-Submissions/tree/master/1833-find-the-highest-altitude) |
 | [2551-apply-operations-to-an-array](https://github.com/Adwait3108/Leetcode-Submissions/tree/master/2551-apply-operations-to-an-array) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Adwait3108/Leetcode-Submissions/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3227-find-missing-and-repeated-values](https://github.com/Adwait3108/Leetcode-Submissions/tree/master/3227-find-missing-and-repeated-values) |
@@ -118,4 +119,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/Adwait3108/Leetcode-Submissions/tree/master/0022-generate-parentheses) |
 | [1250-longest-common-subsequence](https://github.com/Adwait3108/Leetcode-Submissions/tree/master/1250-longest-common-subsequence) |
+## Prefix Sum
+|  |
+| ------- |
+| [1833-find-the-highest-altitude](https://github.com/Adwait3108/Leetcode-Submissions/tree/master/1833-find-the-highest-altitude) |
 <!---LeetCode Topics End-->
